@@ -1,6 +1,6 @@
 {
   "name": "gitignore-clean",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Cleans the files listed in your .gitignore",
   "main": "./index.js",
   "repository": "https://jamrizzi.com",
