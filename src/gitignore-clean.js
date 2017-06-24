@@ -1,4 +1,5 @@
-import 'babel-polyfill';
+if (!global._babelPolyfill) require('babel-polyfill');
+
 import fs from 'fs-extra-promise';
 import _ from 'lodash';
 import gulp from 'gulp';
